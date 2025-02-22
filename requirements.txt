@@ -1,0 +1,44 @@
+# Core Dependencies
+pandas
+numpy
+requests
+aiohttp
+
+# Data Processing & Analysis
+scikit-learn
+scipy
+
+# Web Scraping
+beautifulsoup4
+lxml
+
+# Visualization
+matplotlib
+seaborn
+
+# Database
+SQLAlchemy
+aiosqlite
+
+# Async Support
+asyncio
+aiofiles
+
+# Date/Time Handling
+python-dateutil
+pytz
+
+# Environment Variables
+python-dotenv
+
+# Utilities
+tqdm
+logging
+
+# Testing
+pytest
+pytest-asyncio
+
+# Type Checking
+mypy
+types-requests

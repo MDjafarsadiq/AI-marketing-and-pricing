@@ -1,0 +1,15 @@
+market_pricing_ai/
+├── .env
+├── requirements.txt
+├── main.py
+├── src/
+│   ├── __init__.py
+│   ├── market_pricing_system.py
+│   └── init_db.py
+├── tests/
+│   ├── __init__.py
+│   └── test_pricing.py
+├── examples/
+│   └── basic_usage.py
+└── logs/
+    └── app.log
